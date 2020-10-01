@@ -1,4 +1,5 @@
 #importe
+print("Welcome to the number guessing game")
 import datetime
 import json
 import random
